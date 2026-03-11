@@ -9,5 +9,5 @@ CEL PROJEKTU:
 WYKONANE KROKI:
 inizjalizacja projektu 
 Utworzenie branch
-Monifikacja Main.java
+Zmiany Main.java
 Utworzenie 2 branch
