@@ -7,7 +7,7 @@ CEL PROJEKTU:
 · utworzenie publicznego repozytorium na GitHubie i wykonanie pierwszego push
 
 WYKONANE KROKI:
-inizjalizacja projektu 
+inizjalizacja projektu
 Utworzenie branch
-Monifikacja Main.java
+Modyfikacja Main.java
 Utworzenie 2 branch
