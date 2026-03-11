@@ -10,3 +10,4 @@ WYKONANE KROKI:
 inizjalizacja projektu 
 Utworzenie branch
 Monifikacja Main.java
+Utworzenie 2 branch
